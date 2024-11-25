@@ -97,9 +97,9 @@ Users are responsible for ensuring compliance with relevant laws and policies.
 ### YOUTUBE TERMS OF SERVICE NOTICE:
 YouTube's Terms of Service prohibit downloading or copying videos without explicit permission from the content owner. This tool should only be used with:
 
-Content you own
-Content you have explicit permission to download
-Content that is in the public domain
-Content under licenses that permit downloading
+- Content you own
+- Content you have explicit permission to download
+- Content that is in the public domain
+- Content under licenses that permit downloading
 
 Users are responsible for ensuring they have the right to download any content. I am not responsible for any violations of YouTube's Terms of Service or any copyright infringement.
