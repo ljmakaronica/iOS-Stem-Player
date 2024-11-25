@@ -54,7 +54,7 @@ Users are responsible for ensuring compliance with relevant laws and policies.
 ## Getting Started
 1. Set up the Python backend:
    ```bash
-   pip install flask yt-dlp demucs pydub flask-cors
+   pip install -r requirements.txt
    ```
 
 2. Install FFmpeg (if not already installed):
