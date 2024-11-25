@@ -5,7 +5,7 @@ A full-stack application that splits music tracks into individual stems (vocals,
 ## Features
 
 - YouTube URL processing to extract audio
-- Automatic stem separation using Demucs (MDX-Net Extra model)
+- Automatic stem separation using Demucs
 - Real-time mixing interface with individual stem control
 - Background processing with status updates and notifications
 - Persistent storage of processed songs
@@ -13,7 +13,6 @@ A full-stack application that splits music tracks into individual stems (vocals,
 - High-quality MP3 compression for efficient storage
 - Intuitive touch-based slider controls for stem mixing
 - Visual feedback with LED indicators for muted tracks
-- Modern iOS interface with haptic feedback and animations
 
 ## Technical Stack
 
@@ -53,4 +52,5 @@ A full-stack application that splits music tracks into individual stems (vocals,
 
 ## License
 
-[Your chosen license]
+
+This project uses the MIT license.
