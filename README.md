@@ -52,5 +52,4 @@ A full-stack application that splits music tracks into individual stems (vocals,
 
 ## License
 
-
-This project uses the MIT license.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
