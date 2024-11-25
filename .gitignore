@@ -1,0 +1,9 @@
+# Xcode
+.DS_Store
+xcuserdata/
+*.xcuserstate
+DerivedData/
+
+# Python
+__pycache__/
+*.pyc
