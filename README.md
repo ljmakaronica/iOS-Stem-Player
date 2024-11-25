@@ -1,7 +1,6 @@
 # iOS Stem Player
 
-A full-stack application that splits music tracks into individual stems (vocals, drums, bass, other) and provides an intuitive interface for real-time mixing and playback control.
-
+A full-stack application that splits music tracks into individual stems (vocals, drums, bass, other) and provides an intuitive interface for real-time mixing and playback control. Currently for development and educational purposes only - not available on the App Store. Requires local setup of Python backend and iOS development environment to run.
 ## Features
 
 - YouTube URL processing to extract audio
