@@ -1,4 +1,4 @@
-# Stem Player
+# iOS Stem Player
 
 A full-stack application that splits music tracks into individual stems (vocals, drums, bass, other) and provides an intuitive interface for real-time mixing and playback control.
 
