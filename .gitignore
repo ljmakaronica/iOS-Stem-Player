@@ -5,5 +5,11 @@ xcuserdata/
 DerivedData/
 
 # Python
-__pycache__/
+**pycache**/
 *.pyc
+
+# Files created by backend
+output_files/
+stems_files/
+status_files/
+compressed_files/
