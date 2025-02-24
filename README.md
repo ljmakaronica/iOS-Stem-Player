@@ -5,6 +5,16 @@ This code is provided as-is for local development and educational purposes only.
 I am not responsible for any misuse of the code or violations of third-party terms.
 Users are responsible for ensuring compliance with relevant laws and policies.
 
+## Demo
+<p align="center">
+  <img src="screenshotOne.png" width="200" />
+  <img src="screenshotTwo.png" width="200" />
+  <img src="screenshotThree.png" width="200" />
+  <img src="screenshotFour.png" width="200" />
+  <img src="screenShotFive.png" width="200" />
+</p>
+
+
 ## Features
 - YouTube URL processing to extract audio
 - Automatic stem separation using Demucs
