@@ -6,6 +6,7 @@ I am not responsible for any misuse of the code or violations of third-party ter
 Users are responsible for ensuring compliance with relevant laws and policies.
 
 ## Demo
+[Download the demo video](demoVideo.mov)
 <p align="center">
   <img src="screenshotOne.png" width="200" />
   <img src="screenshotTwo.png" width="200" />
@@ -13,6 +14,7 @@ Users are responsible for ensuring compliance with relevant laws and policies.
   <img src="screenshotFour.png" width="200" />
   <img src="screenShotFive.png" width="200" />
 </p>
+
 
 
 ## Features
