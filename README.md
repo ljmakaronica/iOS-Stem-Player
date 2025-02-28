@@ -7,7 +7,6 @@ Users are responsible for ensuring compliance with relevant laws and policies.
 
 ## Demo
 
-Video Demo:  
 
 https://github.com/user-attachments/assets/803b9c82-8c8a-4a3b-84f8-7aad61034878
 
