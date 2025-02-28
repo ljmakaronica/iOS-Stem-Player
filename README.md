@@ -7,6 +7,11 @@ Users are responsible for ensuring compliance with relevant laws and policies.
 
 ## Demo
 
+Video Demo:  
+
+https://github.com/user-attachments/assets/803b9c82-8c8a-4a3b-84f8-7aad61034878
+
+
 <p align="center">
   <img src="screenshotOne.png" width="180" />
   <img src="screenshotTwo.png" width="180" />
@@ -15,7 +20,8 @@ Users are responsible for ensuring compliance with relevant laws and policies.
   <img src="screenShotFive.png" width="180" />
 </p>
 
-[Stem Player Video Demo](https://github.com/ljmakaronica/iOS-Stem-Player/releases/download/Demo/demoVideo.mov)
+
+
 
 
 ## Features
